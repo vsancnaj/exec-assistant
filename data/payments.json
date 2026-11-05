@@ -1,0 +1,7 @@
+[
+  {"id": "p1", "type": "payment", "customer": "Ellie", "product": "Studio monthly", "amount": 49, "currency": "USD", "status": "failed", "failed_attempts": 2, "last_attempt": "2026-03-14"},
+  {"id": "p2", "type": "payment", "customer": "Nadia", "product": "Studio monthly", "amount": 49, "currency": "USD", "status": "failed", "failed_attempts": 1, "last_attempt": "2026-03-15"},
+  {"id": "p3", "type": "dispute", "customer": "Chloe", "product": "Studio annual", "amount": 490, "currency": "USD", "status": "needs_response", "reason": "product_not_received", "evidence_due": "2026-03-19"},
+  {"id": "p4", "type": "payment", "customer": "Hannah", "product": "Studio monthly", "amount": 49, "currency": "USD", "status": "paid", "failed_attempts": 0, "last_attempt": "2026-03-13"},
+  {"id": "p5", "type": "payment", "customer": "Zoe", "product": "Studio monthly", "amount": 49, "currency": "USD", "status": "failed", "failed_attempts": 3, "last_attempt": "2026-03-03"}
+]

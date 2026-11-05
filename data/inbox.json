@@ -1,0 +1,18 @@
+[
+  {"id": "e1", "from": "Jess Okafor <jess@glowbrand.example>", "subject": "Paid partnership: Glow x Jordan", "received": "2026-03-15", "replied": false,
+   "body": "Hi Jordan, we'd love you to create 3 reels for our spring launch. Budget is 2,500 USD. Could you let us know by Friday?"},
+  {"id": "e2", "from": "Priya N <priya@member.example>", "subject": "Question about Studio call times", "received": "2026-03-10", "replied": false,
+   "body": "Hi, I just joined the Studio. What time are the weekly calls and are they recorded? Thanks!"},
+  {"id": "e3", "from": "Tom Reyes <tom@guestmail.example>", "subject": "Re: podcast recording dates", "received": "2026-03-14", "replied": false,
+   "body": "Thanks for the invite. I'm free early April. Which days could work for recording?"},
+  {"id": "e4", "from": "Rowan Desk <editor@pressdesk.example>", "subject": "Radio interview request", "received": "2026-03-16", "replied": false,
+   "body": "We're running a segment on personal brands and would like 15 minutes with Jordan next week. Can you share availability?"},
+  {"id": "e5", "from": "Stripe <receipts@payments.example>", "subject": "Your receipt from DesignTool Inc", "received": "2026-03-13", "replied": false,
+   "body": "Receipt for 48.00 USD including tax. Invoice attached."},
+  {"id": "e6", "from": "FlightWatch <alerts@flightwatch.example>", "subject": "New York to Lisbon on 10 Apr: fares rising", "received": "2026-03-15", "replied": false,
+   "body": "Fares for your tracked route have risen 12% this week. Cheapest direct is now 780 USD."},
+  {"id": "e7", "from": "Ana M <ana@member.example>", "subject": "Refund request", "received": "2026-03-16", "replied": false,
+   "body": "Hi, I joined the Studio three weeks ago and it isn't for me. Can I get a refund please?"},
+  {"id": "e8", "from": "GrowthBot <hello@growfast.example>", "subject": "Get 10x followers this week", "received": "2026-03-14", "replied": false,
+   "body": "Guaranteed follower growth. Click to claim."}
+]

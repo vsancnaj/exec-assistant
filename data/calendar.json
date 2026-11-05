@@ -1,0 +1,8 @@
+[
+  {"id": "c1", "title": "Studio onboarding call: cohort 4", "date": "2026-03-16", "start": "10:00", "end": "11:00"},
+  {"id": "c2", "title": "Podcast recording: ep 42", "date": "2026-03-16", "start": "10:30", "end": "11:30"},
+  {"id": "c3", "title": "Call with Sam (ops)", "date": "2026-03-16", "start": "14:00", "end": "14:30"},
+  {"id": "c4", "title": "Dentist", "date": "2026-03-16", "start": "16:00", "end": "17:00"},
+  {"id": "c5", "title": "Launch planning", "date": "2026-03-17", "start": "11:00", "end": "12:00"},
+  {"id": "c6", "title": "Lisbon trip starts", "date": "2026-04-10", "start": "00:00", "end": "23:59", "note": "flights not booked"}
+]
